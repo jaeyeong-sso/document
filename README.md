@@ -1,6 +1,5 @@
-# document
-: Self-publishing Document for private seminar.
-
+# self-publication
+: Self-publishing PDF Document for private seminar.
 
 - HBase internal : https://github.com/jaeyeong-sso/document/issues/4
 - Conceptional Overview to understand Hadoop Secure Mode : https://github.com/jaeyeong-sso/document/issues/3
