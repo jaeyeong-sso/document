@@ -1,5 +1,5 @@
 # document
-: Self-publishing Document for internal seminar.
+: Self-publishing Document for private seminar.
 
 
 - HBase internal : https://github.com/jaeyeong-sso/document/issues/4
